@@ -3,7 +3,7 @@ def bubble_sort(arr)-> list:
         return []
     for index in range(0,len(arr)):
         correct = False
-        for curr in range(0,len(arr)-index-1):
+        for curr in range(0,len(arr)-1):
             if arr[curr] >= arr[curr+1]:
                 temp = arr[curr+1]
                 arr[curr+1] = arr[curr]
