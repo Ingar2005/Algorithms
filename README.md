@@ -14,6 +14,6 @@ If you would like to help me out on my journey please tell me which algorithms c
 - Sorts
     - Bubble
     - Merge
-
+    - Insertion
 **To-Do**
 
