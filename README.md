@@ -16,6 +16,9 @@ If you would like to help me out on my journey please tell me which algorithms c
     - Merge
     - Insertion
     - selection
-    
+
+- DS
+    - Linked lists (for future graphs)
+
 **To-Do**
 
