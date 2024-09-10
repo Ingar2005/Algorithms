@@ -16,7 +16,7 @@ If you would like to help me out on my journey please tell me which algorithms c
     - Merge
     - Insertion
     - selection
-
+    - quick (need to add input section)
 - DS
     - Linked lists (for future graphs)
 
