@@ -15,7 +15,7 @@ class linked_list:
                         break
                     else:
                         next = next.pointer
-    def print_all(self)->None:
+    def return_all(self)->list:
         if self.start == -1:
             print( None)
         next = self.start
@@ -27,7 +27,7 @@ class linked_list:
             else:
                 arr.append(next.data)
                 next = next.pointer
-        print(arr)
+        return (arr)
 
                 
 class node:
