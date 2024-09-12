@@ -36,6 +36,6 @@ class node:
         self.data = data
         self.pointer = pointer
     def set_pointer(self,item):
-        if isinstance(item,list_node):
+        if isinstance(item,node):
             self.pointer = item
 
