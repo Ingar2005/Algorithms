@@ -1,5 +1,3 @@
-**TIME RAN OUT COUNTEr**
-1) Spent hours trying to learn heap i anticipated it will take a while so started yesterday and still i could not finish coding a working heap :(
 
 **AIM** 
 
@@ -23,6 +21,6 @@ If you would like to help me out on my journey please tell me which algorithms c
 - DS
     - Linked lists (for future graphs)
     - Stack
-
+    - heap
 **To-Do**
 
