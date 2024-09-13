@@ -22,5 +22,6 @@ If you would like to help me out on my journey please tell me which algorithms c
     - Linked lists (for future graphs)
     - Stack
     - heap
+  
 **To-Do**
 
