@@ -12,16 +12,24 @@ If you would like to help me out on my journey please tell me which algorithms c
 - Search
     - Linear
     - Binary (crashes if empty array need to fix)
+    
 - Sorts
     - Bubble
     - Merge
     - Insertion
     - selection
     - quick (need to add input section)
+    
 - DS
     - Linked lists (for future graphs)
+    
     - Stack
+    
     - heap
-  
+    
+    - hash Table
+    
+      
+
 **To-Do**
 
