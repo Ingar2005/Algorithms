@@ -10,7 +10,7 @@ If you would like to help me out on my journey please tell me which algorithms c
 
 **Compleated**
 - Search
-    - Linear
+    - Linear (python/go)
     - Binary (crashes if empty array need to fix)
 
 - Sorts
@@ -22,7 +22,7 @@ If you would like to help me out on my journey please tell me which algorithms c
 
 - DS
     - Linked lists (for future graphs)
-    - Stack
+    - Stack (python/go)
     - heap
     - hash Table
     - Binary tree
