@@ -27,7 +27,8 @@ If you would like to help me out on my journey please tell me which algorithms c
     - hash Table
     - Binary tree
 
-
+- Encryption
+  - Caesar Cypher
 
 **To-Do**
 
