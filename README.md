@@ -14,7 +14,7 @@ If you would like to help me out on my journey please tell me which algorithms c
     - Binary (crashes if empty array need to fix)
 
 - Sorts
-    - Bubble
+    - Bubble (python/go)
     - Merge
     - Insertion
     - selection
