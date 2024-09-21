@@ -11,7 +11,7 @@ If you would like to help me out on my journey please tell me which algorithms c
 **Compleated**
 - Search
     - Linear (python/go)
-    - Binary (crashes if empty array need to fix)
+    - Binary (crashes if empty array need to fix) (python/go)
 
 - Sorts
     - Bubble (python/go)
