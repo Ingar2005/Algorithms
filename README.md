@@ -15,7 +15,7 @@ If you would like to help me out on my journey please tell me which algorithms c
 
 - Sorts
     - Bubble (python/go)
-    - Merge
+    - Merge (python/go)
     - Insertion (python/go)
     - selection
     - quick (need to add input section)
