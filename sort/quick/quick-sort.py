@@ -1,5 +1,5 @@
 arr = [8,81,23,4,8,6,2,5,4,7,5,2,4]
-def partition(arr,l,h) -> (list,int):
+def partition(arr,l,h) -> (list):
     # l is low h is high representing the lowest/ highest index
     pivot = arr[l]
     i ,j = l,h
