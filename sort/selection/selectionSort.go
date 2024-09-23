@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type High struct {
 	index int
 	value int
@@ -22,8 +20,4 @@ func selection_sort(arr []int) []int {
 		}
 	}
 	return arr
-}
-
-func main() {
-	fmt.Printf("%v", selection_sort([]int{3, 4, 6, 2, 1, 3, 4, 6, 8, 96, 5, 43, 23, 2, 1, 2, 34, 64, 64, 6, 7, 89, 0, 0, 0, 56, 3}))
 }
